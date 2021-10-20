@@ -1,3 +1,3 @@
-# Ejemplo_python_102021
+# Ejemplo_python
 
-Mi primer repo de Python
+Mi primer repo de Python del curso 10 2021.
