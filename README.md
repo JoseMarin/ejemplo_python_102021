@@ -1,1 +1,3 @@
-# ejemplo_python_102021
+# Ejemplo_python_102021
+
+Mi primer repo de Python
